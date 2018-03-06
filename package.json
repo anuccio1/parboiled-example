@@ -1,0 +1,23 @@
+{
+  "name": "parboiled-example",
+  "version": "1.0.0",
+  "description": "This is the full source code for a blog post on parboiled2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuccio1/parboiled-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuccio1/parboiled-example/issues"
+  },
+  "homepage": "https://github.com/anuccio1/parboiled-example#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "underscore": "^1.8.3"
+  }
+}
